@@ -1,0 +1,345 @@
+Email Sources - Customers, Internal Teams, Brokers, and Automated Systems.
+
+Relevance - 
+
+Action - What? Ignored?
+
+Urgency - On a Scale
+
+
+
+Injests Emails -> 
+
+Handler Type (Depending on Handler Type, show priority, ignore? and actions)
+
+Actionable Emails
+
+Identify Specific Topics or tasks
+
+Urgency -> Priority level
+
+Sinlge View summaisation
+
+free-text questions (along with text suggestions) (I don't know if these are internal notes or replies to the sender, so do both)
+
+Write Unit Tests.
+
+
+
+How to architect continuous Email Injesstion? 100s of email = 100s of processes/batches? multibatch? How do we multibatch?
+
+
+
+4o or 4o-mini, better for consistant outputs, GDPR compliance, and cost (since there would be a lots of requests going in and out - we need to handle request bottlenecks from OpenAI API's side too)
+
+Extra Feature - 4o-mini for the system and 4o for the Interactive Q&A Engine?
+
+Data Analytics - Check the average time it takes for a message to get a followup or a "RE" message, to determine a API call window, so that 2 calls don't go for the same message thread, also, make this window changeable in the "settings" globally, based on different types of emails (Sources) (Should we include a prefilter LLM for urgency? and then change window based on that?)
+
+Use the Data Analytics to find the Debounce duration, to keep a minimum amount of duration that the system waits before sending an api call for that message (editable, and toggleable feature)
+
+Extra Feature - LangChain & and LangGraph architecture ofcourse (integrate LangFuse, or altearnatives or observability, evaluation, prompt management, etc)
+
+
+see how many messages can be sent in a same request to prevent hallucinations, etc.
+
+
+internal notes be visible by sender name, and id (needs authentication, user IAM)
+
+
+make reply template based on user data (like, with regards, {name}, {posotion}, {company}, etc)
+
+
+Updated todo list
+
+Yes. Here is the task breakdown.
+
+**Do Now: Submission-Critical**
+
+1. Revoke the exposed OpenAI API key.
+2. Remove `.env` from the submission.
+3. Add `backend/.env.example`.
+4. Add backend dependency configuration.
+5. Complete `SETUP.md`.
+6. Add automated backend tests.
+7. Add frontend/API error handling.
+8. Fix the page title and remove leftover Vite template content.
+9. Persist audit events.
+10. Add visible classification and priority explanations.
+11. Make required actions resolvable and editable.
+12. Add internal notes.
+13. Add reply suggestions with human approval.
+14. Correct the README so it only claims implemented features.
+15. Add evaluation examples and measurable results.
+16. Create presentation material covering:
+   - Architecture
+   - Assumptions
+   - LLM usage
+   - Prioritisation logic
+   - Evaluation
+   - Risks and limitations
+   - Future production architecture
+
+**Do Soon: Functional Gaps**
+
+17. Persist original email messages.
+18. Implement grounded Q&A using stored email content.
+19. Add citations or source-message references to Q&A answers.
+20. Add thread-specific and handler-specific access control.
+21. Add irrelevant-email review/archive view.
+22. Add configurable handler types.
+23. Use `importance_flag` in prioritisation.
+24. Add confidence scores for classification, extraction, and priority.
+25. Add human override for classification and priority.
+26. Deduplicate and resolve outdated actions.
+27. Improve thread history consolidation.
+28. Add source-specific debounce settings.
+29. Add editable and toggleable debounce settings.
+30. Connect analytics results to runtime debounce configuration.
+
+**Do Later: Production Architecture**
+
+31. Replace the simulator with Microsoft Graph or another real mailbox source.
+32. Add webhook or polling ingestion.
+33. Add a durable queue.
+34. Add worker processes for parallel processing.
+35. Add idempotency handling.
+36. Add retry, timeout, and dead-letter handling.
+37. Add bounded LLM concurrency.
+38. Add OpenAI Batch API support where immediate responses are unnecessary.
+39. Add rate limiting and provider backpressure handling.
+40. Add token, latency, and cost monitoring.
+41. Persist pending debounce timers across restarts.
+42. Add graceful shutdown and timer flushing.
+43. Add LangFuse, LangSmith, or equivalent observability.
+44. Add prompt versioning and trace IDs.
+45. Add model fallback behaviour.
+46. Add caching for repeated thread analysis.
+
+**Do Later: Security and GDPR**
+
+47. Add authentication.
+48. Add role-based authorization.
+49. Add handler-level data isolation.
+50. Add PII detection and redaction.
+51. Add retention and deletion policies.
+52. Add data export functionality.
+53. Add access logging.
+54. Add encryption for stored data.
+55. Document legal basis, data minimisation, and human oversight.
+56. Add prompt-injection and malicious-email protections.
+
+**Testing and Evaluation**
+
+57. Test classification routing.
+58. Test action and entity extraction.
+59. Test priority scoring.
+60. Test debounce behaviour.
+61. Test database persistence.
+62. Test REST endpoints.
+63. Test Q&A scoping.
+64. Test WebSocket updates.
+65. Test provider failures and retries.
+66. Add frontend interaction tests.
+67. Build a labelled evaluation dataset.
+68. Measure classification accuracy.
+69. Measure priority agreement with human reviewers.
+70. Measure action extraction accuracy.
+71. Measure Q&A grounding and answer correctness.
+72. Measure latency and estimated cost.
+
+The first decision is which items belong in your **interview submission now** versus the **future production roadmap**.
+
+
+
+Updated todo list
+
+Got it. Here is the single consolidated list of remaining work.
+
+1. **Revoke the exposed API key**. Deferred until final release cleanup.
+2. **Remove `.env` from the submission** and keep only `.env.example`.
+3. Add a backend dependency manifest such as `requirements.txt` or `pyproject.toml`.
+4. Improve frontend and API error states.
+5. Remove remaining Vite/template artefacts.
+6. Add LangFuse observability.
+7. Add trace-level model, prompt, latency, token, cost, fallback, and retrieval tracking.
+8. Expand the labelled AI evaluation dataset.
+9. Measure classification precision, recall, and F1.
+10. Measure priority agreement with human reviewers.
+11. Measure entity extraction accuracy.
+12. Measure action extraction precision and recall.
+13. Measure summary quality.
+14. Add Q&A ground-truth questions.
+15. Measure Q&A answer correctness.
+16. Measure citation/source correctness.
+17. Measure unsupported-answer rate.
+18. Add prompt-injection evaluation cases.
+19. Compare GPT-4o-mini and GPT-4o quality.
+20. Compare model latency and cost.
+21. Measure fallback frequency.
+22. Calibrate confidence scores rather than relying only on model-reported confidence.
+23. Add evidence-coverage checks for AI decisions.
+24. Add deterministic business-policy rules around LLM decisions.
+25. Add a human feedback loop for corrections and overrides.
+26. Add prompt regression evaluation.
+27. Improve retrieval from lexical matching to hybrid retrieval:
+    - Metadata filtering
+    - Keyword search
+    - Embeddings
+    - Reranking
+28. Add structured Q&A response fields:
+    - Answer
+    - Sources
+    - Supported claims
+    - Unsupported claims
+    - Confidence
+29. Add adversarial email tests for prompt injection.
+30. Add attachment scanning and content-size limits.
+31. Add reversible pseudonymisation for names, addresses, and policy references.
+32. Add local token reinjection after model response validation.
+33. Add proper corporate IAM/OIDC integration.
+34. Replace in-process sessions with shared session storage.
+35. Add encrypted backups and stronger database encryption.
+36. Add centralised SIEM forwarding for access logs.
+37. Add distributed rate limiting.
+38. Add production retry, circuit-breaker, and dead-letter handling.
+39. Add durable queue support.
+40. Add worker processes for parallel ingestion and triage.
+41. Add Microsoft Graph or live mailbox integration.
+42. Add webhook or polling ingestion.
+43. Add OpenAI Batch API support only if the decision changes later. Currently excluded.
+44. Add bounded LLM concurrency across multiple backend workers.
+45. Add durable provider metrics storage.
+46. Add cache administration and cache invalidation controls.
+47. Add AI Quality settings page.
+48. Add provider usage page.
+49. Add debounce and analytics settings page.
+50. Add security and access-management page.
+51. Add evaluation results page.
+52. Add LangFuse trace link/status page.
+53. Add role-aware UI controls for supervisors, auditors, and admins.
+54. Add formal legal-basis documentation.
+55. Add formal data-minimisation documentation.
+56. Add formal retention and deletion policy documentation.
+57. Add full automated backend tests.
+58. Add classification routing tests.
+59. Add extraction tests.
+60. Add priority-rule tests.
+61. Add consolidation tests.
+62. Add debounce tests.
+63. Add database tests.
+64. Add API tests.
+65. Add Q&A grounding tests.
+66. Add citation tests.
+67. Add fallback tests.
+68. Add cache tests.
+69. Add authentication and RBAC tests.
+70. Add WebSocket tests.
+71. Add frontend interaction tests.
+72. Add latency and cost tests.
+73. Add model comparison tests.
+74. Add final presentation slides or a polished presentation deck.
+75. Perform final release cleanup, including secrets, dependencies, setup instructions, evaluation output, and demo verification.
+
+Already completed: core triage, department routing, actions, notes, drafts, Q&A, citations, audit history, evaluation smoke test, debounce configuration, provider metrics, restart-safe debounce, graceful shutdown, login/session flow, RBAC, retention, export, access logging, encryption support, prompt-safety filtering, and documentation.
+
+
+Updated todo list
+
+1. Revoke the exposed API key.
+
+2. Remove `.env` from the submission.
+
+3. Add full API and frontend error tests.
+
+4. Add expanded AI evaluation data.
+
+5. Measure classification precision, recall, and F1.
+
+6. Measure priority accuracy against human labels.
+
+7. Measure action extraction accuracy.
+
+8. Measure entity extraction accuracy.
+
+9. Measure summary quality.
+
+10. Add Q&A ground-truth evaluation.
+
+11. Measure Q&A answer correctness.
+
+12. Measure citation correctness.
+
+13. Measure unsupported-answer rate.
+
+14. Compare GPT-4o-mini and GPT-4o.
+
+15. Compare model latency and cost.
+
+16. Measure fallback usage.
+
+17. Improve confidence calibration with real labelled outcomes.
+
+18. Add evidence coverage checks.
+
+19. Add human feedback learning loops.
+
+20. Add prompt regression evaluation.
+
+21. Add adversarial prompt-injection evaluation.
+
+22. Improve retrieval with embeddings and reranking.
+
+23. Add supported and unsupported claim extraction for Q&A.
+
+24. Add reversible pseudonymisation for names and addresses.
+
+25. Add token reinjection after model responses.
+
+26. Add full LangFuse trace detail and fallback reporting.
+
+27. Add durable LangFuse and provider metrics storage.
+
+28. Add Microsoft Graph or live mailbox integration.
+
+29. Add webhook or polling ingestion.
+
+30. Add durable queue support.
+
+31. Add worker processes.
+
+32. Add retry and dead-letter handling.
+
+33. Add distributed rate limiting.
+
+34. Add production IAM/OIDC integration.
+
+35. Add shared session storage.
+
+36. Add encrypted backups.
+
+37. Add SIEM forwarding for access logs.
+
+38. Add attachment scanning.
+
+39. Add content-size limits.
+
+40. Add full frontend interaction tests.
+
+41. Add WebSocket tests.
+
+42. Add authentication and RBAC tests.
+
+43. Add cache and fallback tests.
+
+44. Add LangFuse integration tests.
+
+45. Add model comparison tests.
+
+46. Add latency and cost tests.
+
+47. Add a polished interview presentation deck.
+
+48. Add final documentation review.
+
+49. Perform final release cleanup and demo verification.

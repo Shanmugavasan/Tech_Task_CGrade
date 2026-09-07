@@ -1,0 +1,2034 @@
+{
+    "emails": [
+        {
+            "messages": [
+                {
+                    "body": "Dear Claims,\n\nWe're submitting the completed claim form, tenancy agreement, and photos for an escape of water affecting a rented flat in Aberdeen (AB10) under policyholder Mr J. Fraser. Claim reference: PIN-HOM-533661.\n\nPlease confirm cover and excess and advise next steps for initial assessment.\n\nRegards,\nBridgegate Brokers Claims",
+                    "subject": "PIN-HOM-533661 - Claim form, tenancy agreement and EOW photos (Aberdeen AB10)",
+                    "sent_from": "claims@bridgegatebrokers.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "home.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-02T10:48:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Claim_Form_PIN-HOM-533661.pdf",
+                            "filesize": 268000,
+                            "filetype": "application/pdf"
+                        },
+                        {
+                            "filename": "Tenancy_Agreement_Fraser_AB10.pdf",
+                            "filesize": 412000,
+                            "filetype": "application/pdf"
+                        },
+                        {
+                            "filename": "EOW_Photos_AB10_20260201.zip",
+                            "filesize": 1500000,
+                            "filetype": "application/zip"
+                        }
+                    ],
+                    "importance_flag": null,
+                    "message_id": "<hom-533661-17-1-0c84@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_533661_ab10_17"
+                },
+                {
+                    "body": "For completeness, the tenant's contact is 07783 112909. Please advise cover/excess and initial assessment plan.\n\nThanks,\nBridgegate Brokers",
+                    "subject": "RE: PIN-HOM-533661 - Tenant contact and next steps",
+                    "sent_from": "claims@bridgegatebrokers.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "home.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-02T12:03:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<hom-533661-17-2-5a2e@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_533661_ab10_17"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Passing along positive feedback from Mr Lane on handling of PIN-HOM-520119--he praised clear updates and empathy. Great work.\n\nCustomer Services",
+                    "subject": "Positive feedback - PIN-HOM-520119",
+                    "sent_from": "cs.feedback@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "home.claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-06T10:50:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<info-41-1-5a20@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_info_cs_feedback_41"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Dear Mr Ashford,\n\nThank you for your update last week on PIN-HOM-483912 (burglary at your property in Didsbury). We've noted the new locks fitted. We are awaiting confirmation from the adjuster on appointment availability and will revert with a date.\n\nKind regards,\nPriya Nair\nHome Claims Handler\nPinnacle Insurance",
+                    "subject": "PIN-HOM-483912 - Adjuster appointment update",
+                    "sent_from": "home.claims@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "c.ashford@hotmail.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-05T10:22:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<hom-483912-6-1-c91f@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_483912_m20_06"
+                },
+                {
+                    "body": "Hi Priya,\n\nAs requested, the police crime ref is GMP/483912/02-26 and the locksmith invoice is attached. Please confirm if the adjuster is attending next week and whether I need to be present.\n\nRegards,\nChris Ashford",
+                    "subject": "RE: PIN-HOM-483912 - Adjuster appointment update",
+                    "sent_from": "c.ashford@hotmail.co.uk",
+                    "sent_to": [
+                        "home.claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-05T13:44:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Locksmith_Invoice_483912.pdf",
+                            "filesize": 186000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": null,
+                    "message_id": "<hom-483912-6-2-1a73@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_483912_m20_06"
+                },
+                {
+                    "body": "Hi Priya,\n\nAdjuster capacity next week is tight but we can offer Wednesday 18th Feb at 10:30 or Friday 20th Feb at 14:00 for PIN-HOM-483912. Please confirm with the customer.\n\nThanks,\nTom Edwards\nBorder Loss Adjusters",
+                    "subject": "FW: PIN-HOM-483912 - Adjuster appointment options",
+                    "sent_from": "scheduling@borderlossadjusters.co.uk",
+                    "sent_to": [
+                        "home.claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-06T09:18:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<hom-483912-6-3-9e31@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_483912_m20_06"
+                },
+                {
+                    "body": "Hi Priya,\n\nThanks for the dates. Please book Wednesday 18th Feb at 10:30. Also, can you confirm if the cost of upgrading the alarm following the burglary is covered under my policy? I'm keen to get this sorted this weekend.\n\nRegards,\nChris Ashford\nPIN-HOM-483912",
+                    "subject": "RE: PIN-HOM-483912 - Adjuster visit and alarm upgrade query",
+                    "sent_from": "c.ashford@hotmail.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "home.claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-06T12:05:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<hom-483912-6-4-6b5e@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_483912_m20_06"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Morning,\n\nWe're chasing parts authority for PIN-MTR-552301 (2019 Volvo V40 - rear bumper, sensors and loom). We submitted the OEM parts list and labour hours last week and the customer is on our back about completion timing. Please confirm if we can order today.\n\nAttached: Estimate and parts breakdown (OEM).\n\nThanks,\nSteel City Bodyshop Service Team",
+                    "subject": "PIN-MTR-552301 - Parts authority required (Volvo V40 rear bumper & sensors)",
+                    "sent_from": "service@steelcity-bodyshop.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "motor.engineering@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-11T09:05:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Estimate_PIN-MTR-552301_VolvoV40.pdf",
+                            "filesize": 364000,
+                            "filetype": "application/pdf"
+                        },
+                        {
+                            "filename": "OEM_Parts_List_V40_552301.xlsx",
+                            "filesize": 128000,
+                            "filetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                        }
+                    ],
+                    "importance_flag": "high",
+                    "message_id": "<mtr-552301-8-1-5a91@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_552301_sheffield_08"
+                },
+                {
+                    "body": "Hi Engineering,\n\nCould you review the Steel City estimate vs our report for PIN-MTR-552301 and confirm authority? Policyholder chasing a completion date.\n\nThanks,\nMatt\nMotor Claims",
+                    "subject": "FW: PIN-MTR-552301 - Parts authority required (Volvo V40 rear bumper & sensors)",
+                    "sent_from": "motor.claims@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "motor.engineering@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-11T09:18:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<mtr-552301-8-2-0f73@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_552301_sheffield_08"
+                },
+                {
+                    "body": "Hi Matt,\n\nEngineer's note: Recommend aftermarket bumper cover due to OEM back order; sensors must be OEM. Labour looks fine at 5.2 hours. If bodyshop accepts mixed parts, we can authorise today.\n\nRegards,\nA. Patel\nMotor Engineering",
+                    "subject": "RE: PIN-MTR-552301 - Engineering review",
+                    "sent_from": "motor.engineering@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "motor.claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-11T10:02:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Engineer_Report_Summary_552301.docx",
+                            "filesize": 142000,
+                            "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                        }
+                    ],
+                    "importance_flag": "high",
+                    "message_id": "<mtr-552301-8-3-4c2d@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_552301_sheffield_08"
+                },
+                {
+                    "body": "Hi Steel City,\n\nWe can authorise sensors OEM and loom OEM; bumper may be aftermarket equivalent due to OEM back order. Please confirm acceptance and provide a target completion date so we can update the policyholder.\n\nThanks,\nMatt\nPinnacle Motor Claims",
+                    "subject": "RE: PIN-MTR-552301 - Conditional parts authority",
+                    "sent_from": "motor.claims@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "service@steelcity-bodyshop.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-11T10:24:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<mtr-552301-8-4-9a6e@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_552301_sheffield_08"
+                },
+                {
+                    "body": "Thanks Matt,\n\nWe'll proceed with mixed parts as advised. Target completion if parts ordered today is Friday 20th Feb. Please send written authority so accounts can place orders.\n\nRegards,\nSteel City Bodyshop\nSheffield",
+                    "subject": "RE: PIN-MTR-552301 - Confirmation and completion date",
+                    "sent_from": "service@steelcity-bodyshop.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "motor.claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-11T10:41:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<mtr-552301-8-5-1d8f@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_552301_sheffield_08"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Your parcel will be delivered today and requires a signature at head office. Track your parcel using the link below.\n\nDPD",
+                    "subject": "Delivery notification - Parcel requires signature",
+                    "sent_from": "no-reply@dpd.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": null,
+                    "date_sent": "2026-02-09T10:11:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<irr-49-1-4e21@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_irr_courier_dpd_49"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Dear Pinnacle,\n\nI own a Grade II listed townhouse in York (YO1). We've had storm damage to original sash windows and I'd like to understand if our policy covers repair or replacement of historic features, and whether you have approved heritage glaziers.\n\nPolicy no: HOM-LT-882113\n\nPlease advise on cover, matching items considerations, and any contractors you recommend.\n\nKind regards,\nEdward Marston\nMarston & Co.",
+                    "subject": "Policy query - Storm damage to original sash windows (Grade II, York YO1)",
+                    "sent_from": "edward.marston@marstonandco.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "home.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-08T12:10:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<gen-28-1-9d21@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_gen_yo1_sash_28"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Dear HR Team,\n\nPlease find my CV attached for the Marketing Executive role. Apologies if this is the wrong mailbox.\n\nRegards,\nEmma Jenkins",
+                    "subject": "Application - Marketing Executive (CV attached)",
+                    "sent_from": "emma.jenkins@gmail.com",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": null,
+                    "date_sent": "2026-02-04T18:12:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Emma_Jenkins_CV.pdf",
+                            "filesize": 284000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": null,
+                    "message_id": "<irr-48-1-6c31@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_irr_misroute_cv_48"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Hi Team,\n\nAttached is the CCTV survey report and photographs for the collapsed drain at the semi-detached house in Leicester (LE2), subsidence claim PIN-HOM-508377. The footage indicates significant root ingress from the pavement ash tree.\n\nPlease review findings and advise on next steps, including any liaison with the local authority about the street tree.\n\nRegards,\nRapid Drainage Reports",
+                    "subject": "PIN-HOM-508377 - CCTV drain survey and photos (root ingress identified)",
+                    "sent_from": "reports@rapid-drainage.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "adjusting@borderlossadjusters.co.uk"
+                    ],
+                    "date_sent": "2026-02-08T10:44:00Z",
+                    "attachments": [
+                        {
+                            "filename": "CCTV_Survey_LE2_PIN-HOM-508377.mp4",
+                            "filesize": 3820000,
+                            "filetype": "video/mp4"
+                        },
+                        {
+                            "filename": "Drain_Photos_LE2_20260208_1.jpg",
+                            "filesize": 1340000,
+                            "filetype": "image/jpeg"
+                        },
+                        {
+                            "filename": "Drain_Photos_LE2_20260208_2.jpg",
+                            "filesize": 1450000,
+                            "filetype": "image/jpeg"
+                        },
+                        {
+                            "filename": "CCTV_Report_LE2_PIN-HOM-508377.pdf",
+                            "filesize": 612000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": "high",
+                    "message_id": "<hom-508377-13-1-5d66@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_508377_le2_13"
+                },
+                {
+                    "body": "Thanks for the survey.\n\n@Adjuster - can you compare findings against policy coverage for root ingress and let us know if we need to approach the council's tree officer?\n\nCheers,\nDan\nPinnacle Home Claims",
+                    "subject": "FW: PIN-HOM-508377 - Root ingress and LA involvement?",
+                    "sent_from": "home.claims@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "adjusting@borderlossadjusters.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk",
+                        "reports@rapid-drainage.co.uk"
+                    ],
+                    "date_sent": "2026-02-08T11:05:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<hom-508377-13-2-1a28@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_508377_le2_13"
+                },
+                {
+                    "body": "Afternoon,\n\nWe've reviewed the CCTV. Policy has limited cover for resultant damage, not tree removal. We suggest root cutting within boundary and liaising with Leicester City Council about the ash tree. We'll draft next steps.\n\nRegards,\nBorder Loss Adjusters",
+                    "subject": "RE: PIN-HOM-508377 - Adjuster view on root ingress",
+                    "sent_from": "adjusting@borderlossadjusters.co.uk",
+                    "sent_to": [
+                        "home.claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk",
+                        "reports@rapid-drainage.co.uk"
+                    ],
+                    "date_sent": "2026-02-09T15:12:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<hom-508377-13-3-9e02@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_508377_le2_13"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Hello Pinnacle,\n\nI'm a landlord in Cardiff (CF24). Can you confirm whether malicious damage by tenants is covered under my buy‑to‑let policy and what evidence you'd need? We are planning an eviction and want to be clear on requirements should we need to claim.\n\nThanks,\nDylan Hughes",
+                    "subject": "Policy query - Malicious damage by tenants (buy-to-let, Cardiff CF24)",
+                    "sent_from": "dylan.hughes@btinternet.com",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": null,
+                    "date_sent": "2026-02-03T13:18:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<gen-30-1-2b77@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_gen_malicious_cf24_30"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Dear Pinnacle,\n\nPlease find attached our final invoice for PIN-MTR-552301 (2019 Volvo V40) totalling GBP2,186.40 incl. VAT. Note that storage charges will accrue from Friday unless payment/authority is received.\n\nKindly validate against the approved estimate and advise on payment timing to avoid storage.\n\nRegards,\nQuickFix Garage Accounts",
+                    "subject": "Invoice - PIN-MTR-552301 (GBP2,186.40 incl. VAT) - storage accrual from Friday",
+                    "sent_from": "accounts@quickfixgarage.com",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "motor.claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-18T09:11:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Invoice_QFG-2026-0847_PIN-MTR-552301.pdf",
+                            "filesize": 265000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": "high",
+                    "message_id": "<mtr-552301-24-1-0e33@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_552301_invoice_24"
+                },
+                {
+                    "body": "Hi Finance,\n\nPlease process QFG invoice for PIN-MTR-552301 per approved estimate. Note storage charges from Friday.\n\nThanks,\nMotor Claims",
+                    "subject": "FW: Invoice - PIN-MTR-552301 - Urgent to avoid storage",
+                    "sent_from": "motor.claims@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "ap@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk",
+                        "accounts@quickfixgarage.com"
+                    ],
+                    "date_sent": "2026-02-18T09:28:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<mtr-552301-24-2-4a76@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_552301_invoice_24"
+                },
+                {
+                    "body": "Following up--please confirm payment or supplementary authority today to prevent storage costs.\n\nRegards,\nQuickFix Garage Accounts",
+                    "subject": "RE: Invoice - PIN-MTR-552301 - Payment confirmation required",
+                    "sent_from": "accounts@quickfixgarage.com",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "motor.claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-18T15:46:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<mtr-552301-24-3-7f19@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_552301_invoice_24"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Finance update: Supplier payment runs will shift from Wednesdays to Tuesdays from next month. Cut‑off times have been updated in the attached notice.\n\nFinance Team",
+                    "subject": "Finance notice - Supplier payment runs moving to Tuesdays",
+                    "sent_from": "finance@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "ap@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-03T09:40:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Payment_Run_Schedule_Update_Feb2026.pdf",
+                            "filesize": 196000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": null,
+                    "message_id": "<info-42-1-4f11@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_info_finance_runs_42"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "FYI list attached: high‑risk repairers and hire firms flagged in recent investigations. Please conduct extra checks when instructing.\n\nFraud Team",
+                    "subject": "Fraud alert - High-risk repairers/hire firms (extra checks required)",
+                    "sent_from": "antifraud@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "siu@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-12T08:56:00Z",
+                    "attachments": [
+                        {
+                            "filename": "High_Risk_Repairers_Hire_Firms_Feb2026.pdf",
+                            "filesize": 226000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": null,
+                    "message_id": "<info-43-1-1e76@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_info_fraud_alerts_43"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Please see the overview of updated pre‑action protocols for personal injury in Scotland, with links to guidance and a summary of changes.\n\nRegards,\nCompliance",
+                    "subject": "Compliance overview - Updated PI pre-action protocols (Scotland)",
+                    "sent_from": "compliance@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "liability.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-08T11:20:00Z",
+                    "attachments": [
+                        {
+                            "filename": "PI_PreAction_Protocols_Scotland_Feb2026.pdf",
+                            "filesize": 612000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": null,
+                    "message_id": "<info-39-1-7a20@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_info_compliance_pi_39"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Hello,\n\nWould theft of a mobility scooter from a locked garden shed be covered under my home policy? Do I need proof of purchase? I'm in Inverness (IV2).\n\nRegards,\nR. MacPherson",
+                    "subject": "Policy query - Mobility scooter stolen from locked shed (IV2)",
+                    "sent_from": "r.macpherson@protonmail.com",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": null,
+                    "date_sent": "2026-02-16T17:58:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<gen-32-1-3e61@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_gen_scooter_iv2_32"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Hi,\n\nI'm an event florist in Newcastle (NE1). Please confirm my public liability limit and any notification requirements for a large wedding at the Baltic next month. Are temporary staff covered under my policy?\n\nPolicy no: LIA-PL-992311\n\nThanks,\nSarah\nBlossom & Bloom",
+                    "subject": "Public liability limit and notification requirements - Baltic wedding (temporary staff)",
+                    "sent_from": "sarah@blossomandbloom.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "liability.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-05T08:28:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<gen-31-1-9a20@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_gen_pl_ne1_31"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Hi Claims Team,\n\nMy 2014 Renault Trafic van (reg: BJ14 UMX) was stolen overnight from outside my house in Byker, Newcastle (NE6). The van had copper piping and battery tools worth around GBP3,000 inside. I've reported it to Northumbria Police - crime ref: 2602X/2026.\n\nI have a tracker installed and it pinged near Gateshead around 02:30 but then went silent. I don't have a spare vehicle, so I need help with a hire van if my policy allows.\n\nPolicy no: MTR-COM-554872\nContact: 07876 991002\n\nPlease open a theft claim and tell me what proof of ownership and tools inventory you need. Happy to send receipts. Also, let me know about any limits on tools left in the van overnight.\n\nRegards,\nNathan Bradley Plumbing & Heating",
+                    "subject": "FNOL: Van theft - Renault Trafic stolen in NE6, tools inside (crime ref 2602X/2026)",
+                    "sent_from": "n.bradley.plumbing@sky.com",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "motor.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-15T07:18:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<mtr-fnol-5-1-4ea9@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_fnol_ne6_05"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Please find attached the Scottish claims team annual leave rota for March, including cover for Glasgow and Aberdeen regions.\n\nRegards,\nScotland Team",
+                    "subject": "Scottish Claims - March annual leave rota and cover",
+                    "sent_from": "scotland.team@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "scotland.claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-20T09:00:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Scottish_Claims_March_Rota.pdf",
+                            "filesize": 186000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": null,
+                    "message_id": "<info-38-1-2e70@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_info_scotland_rota_38"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Dear Pinnacle Liability Team,\n\nPlease find attached treatment notes and the discharge report for the whiplash claimant linked to PIN-LIA-744552. Sessions were completed at Glasgow West Physio (G12) over January and early February. The documents include session dates, exercises, and prognosis.\n\nKindly confirm receipt and whether any further information is required.\n\nRegards,\nAdmin Team\nGlasgow West Physio",
+                    "subject": "PIN-LIA-744552 - Physiotherapy notes and discharge report attached",
+                    "sent_from": "admin@glasgow-physio.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "liability.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-16T09:08:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Treatment_Notes_PIN-LIA-744552.pdf",
+                            "filesize": 855000,
+                            "filetype": "application/pdf"
+                        },
+                        {
+                            "filename": "Discharge_Report_PIN-LIA-744552.pdf",
+                            "filesize": 532000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": null,
+                    "message_id": "<lia-744552-12-1-3f51@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_lia_744552_g12_12"
+                },
+                {
+                    "body": "Thanks for confirming receipt previously. Sending final copies now that the patient has been discharged. Please raise any queries.\n\nRegards,\nAdmin Team\nGlasgow West Physio",
+                    "subject": "RE: PIN-LIA-744552 - Final physio documentation",
+                    "sent_from": "admin@glasgow-physio.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "liability.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-16T09:22:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<lia-744552-12-2-1b90@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_lia_744552_g12_12"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Dear Claims Team,\n\nWe had a slip-and-fall incident outside our café this morning in Cardiff city centre (CF10). Rainwater pooled just inside the entrance and a customer fell. Staff completed an incident report and we have CCTV that shows the area and the fall.\n\nWe've assisted the customer and logged the incident. Please open a public liability claim and advise what you need from us (CCTV, incident report, witness statements). Our café details are below.\n\nCafe Name: Hayes Street Café, CF10\nContact: 07803 441221\n\nRegards,\nEleri Hughes\nManager",
+                    "subject": "CF10 café slip-and-fall incident - request to open PL claim",
+                    "sent_from": "manager@hayesstreetcafe.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "owner@hayesstreetcafe.co.uk"
+                    ],
+                    "date_sent": "2026-02-12T09:11:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Incident_Report_CF10_2026-02-12.pdf",
+                            "filesize": 214000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": null,
+                    "message_id": "<lia-fnol-3-1-8d21@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_lia_fnol_cf10_03"
+                },
+                {
+                    "body": "Dear Pinnacle Insurance Claims,\n\nWe act for Ms Angharad Davies in relation to injuries sustained in a slip-and-fall at the café entrance referenced below. We are formally putting you on notice of our client's claim. Rainwater had pooled near the threshold and our client fell, sustaining a wrist injury and back pain.\n\nPlease acknowledge receipt, confirm your indemnity position, and let us know where to send CCTV and the incident report. We will seek disclosure of the cleaning/inspection regime. Kindly provide your claim reference under your public liability policy.\n\nClient: Ms Angharad Davies\nIncident: 12/02/2026, Cardiff CF10\n\nRegards,\nRhys Williams\nMorgan Rowe Solicitors\n029 20 555 781",
+                    "subject": "Notice of Claim - Slip-and-fall outside insured café, Cardiff (CF10)",
+                    "sent_from": "r.williams@morganrowesolicitors.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "manager@hayesstreetcafe.co.uk"
+                    ],
+                    "date_sent": "2026-02-12T11:32:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<lia-fnol-3-2-7c88@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_lia_fnol_cf10_03"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Dear Pinnacle Claims,\n\nWe served our client's orthopaedic report under PIN-LIA-771045 ten days ago and have not yet received your indemnity position or an indication of your timetable for response and any offer. The incident involved a trip on uneven paving outside the insured's premises in Leith (EH6).\n\nPlease confirm receipt of the report and advise next steps.\n\nRegards,\nKirsty MacLeod\nCaledonia Law\n0131 228 7711",
+                    "subject": "PIN-LIA-771045 - Status of indemnity position and timetable",
+                    "sent_from": "k.macleod@caledonialaw.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "liability.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-18T10:02:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<lia-771045-7-1-2f3c@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_lia_771045_eh6_07"
+                },
+                {
+                    "body": "Dear Ms MacLeod,\n\nWe acknowledge your letter of claim and note your intention to serve medical evidence. Please forward the orthopaedic report and schedule of loss for PIN-LIA-771045 to this address and we will review promptly.\n\nRegards,\nPinnacle Liability Team",
+                    "subject": "RE: PIN-LIA-771045 - Medical evidence",
+                    "sent_from": "liability.handlers@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "k.macleod@caledonialaw.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-18T14:15:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<lia-771045-7-2-7c4a@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_lia_771045_eh6_07"
+                },
+                {
+                    "body": "Further to the above, please note the orthopaedic report was served on 08/02/2026. We would appreciate confirmation of your indemnity stance and whether any further evidence is required from our client.\n\nRegards,\nKirsty MacLeod\nCaledonia Law",
+                    "subject": "RE: PIN-LIA-771045 - Confirmation of receipt and next steps",
+                    "sent_from": "k.macleod@caledonialaw.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "liability.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-19T10:24:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Orthopaedic_Report_Davies_08022026.pdf",
+                            "filesize": 745000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": "high",
+                    "message_id": "<lia-771045-7-3-3e67@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_lia_771045_eh6_07"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Heads-up: Guidewire claims system outage scheduled Saturday 22:00-02:00 for patching. No action required; please use downtime procedures if you're working.\n\nRegards,\nIT Operations",
+                    "subject": "Scheduled system outage - Guidewire (Sat 22:00-02:00)",
+                    "sent_from": "it.ops@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "it.all@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-11T16:40:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<info-34-1-7e10@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_info_it_outage_34"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Hi,\n\nSubmitting documents for PIN-HOM-520119 (stolen e‑bike, Glasgow G3). I've attached photos, the purchase receipt, and the serial number sticker image. Our concierge shared CCTV stills as well.\n\nPlease confirm what else you need and whether theft from a communal hallway is covered under my policy conditions. I can provide the police crime reference if you don't already have it.\n\nThanks,\nLiam Mitchell\nG3",
+                    "subject": "PIN-HOM-520119 - Stolen e‑bike documents (photos, receipt, serial, CCTV)",
+                    "sent_from": "l.mitchell21@gmail.com",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "home.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-04T19:36:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Ebike_Photo_G3_20260204.jpg",
+                            "filesize": 1220000,
+                            "filetype": "image/jpeg"
+                        },
+                        {
+                            "filename": "Receipt_Ebike_2024-06-11.pdf",
+                            "filesize": 268000,
+                            "filetype": "application/pdf"
+                        },
+                        {
+                            "filename": "Serial_Number_Sticker.jpg",
+                            "filesize": 980000,
+                            "filetype": "image/jpeg"
+                        },
+                        {
+                            "filename": "CCTV_Still_Concierge_G3.png",
+                            "filesize": 640000,
+                            "filetype": "image/png"
+                        }
+                    ],
+                    "importance_flag": null,
+                    "message_id": "<hom-520119-14-1-3a98@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_520119_g3_14"
+                },
+                {
+                    "body": "Thanks for the quick reply earlier. For completeness, here is the police crime ref: 2026/GLA/EB-4409.\n\nPlease let me know the valuation process and whether any deductions apply.\n\nThanks,\nLiam",
+                    "subject": "RE: PIN-HOM-520119 - Police crime reference and next steps",
+                    "sent_from": "l.mitchell21@gmail.com",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "home.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-05T08:12:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<hom-520119-14-2-7f65@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_520119_g3_14"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Dear Pinnacle Liability Team,\n\nAttached is our invoice bundle for completed treatment under PIN-LIA-744552 totaling GBP560. Remittance details and the schedule of sessions are included.\n\nPlease cross‑check against authorised sessions and confirm payment.\n\nRegards,\nPhysioCare Scotland Accounts",
+                    "subject": "Invoice - PIN-LIA-744552 (GBP560) - treatment completed, remittance details enclosed",
+                    "sent_from": "accounts@physiocarescotland.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "liability.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-16T11:48:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Invoice_PCS_744552_Feb2026.pdf",
+                            "filesize": 198000,
+                            "filetype": "application/pdf"
+                        },
+                        {
+                            "filename": "Session_Schedule_744552.pdf",
+                            "filesize": 146000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": null,
+                    "message_id": "<lia-744552-26-1-3b26@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_lia_744552_invoice_26"
+                },
+                {
+                    "body": "Following up for payment confirmation. Treatment completed; please notify handler so settlement discussions can proceed.\n\nRegards,\nPhysioCare Scotland Accounts",
+                    "subject": "RE: Invoice - PIN-LIA-744552 - Payment confirmation and handler notification",
+                    "sent_from": "accounts@physiocarescotland.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "liability.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-18T09:06:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<lia-744552-26-2-5a90@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_lia_744552_invoice_26"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Dear Pinnacle,\n\nAttached is our invoice for the weekend call‑out to tarp the storm‑damaged roof at PIN-HOM-547299 (Swansea SA1). Please see the out‑of‑hours premium and photos of the make‑safe work.\n\nKind regards,\nBayBuild Response Accounts",
+                    "subject": "Invoice - PIN-HOM-547299 - Weekend make-safe (tarp) with photos",
+                    "sent_from": "accounts@baybuildresponse.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "home.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-05T09:44:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Invoice_BayBuild_SA1_547299.pdf",
+                            "filesize": 212000,
+                            "filetype": "application/pdf"
+                        },
+                        {
+                            "filename": "MakeSafe_Photos_SA1_20260203_1.jpg",
+                            "filesize": 1180000,
+                            "filetype": "image/jpeg"
+                        }
+                    ],
+                    "importance_flag": null,
+                    "message_id": "<hom-547299-27-1-9c31@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_547299_invoice_27"
+                },
+                {
+                    "body": "Please verify the works against your initial instruction and confirm payment as per rates. Claim costs to be updated accordingly.\n\nRegards,\nBayBuild Response Accounts",
+                    "subject": "RE: Invoice - PIN-HOM-547299 - Verification and payment",
+                    "sent_from": "accounts@baybuildresponse.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "home.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-06T10:22:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<hom-547299-27-2-3e65@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_547299_invoice_27"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Dear Pinnacle,\n\nI own a holiday cottage near Portree, Isle of Skye (IV51). Last night's gale has ripped multiple slates from the roof of my listed property. There's water coming into the lounge and the plaster on the ceiling is bowing.\n\nThe property is currently vacant but my neighbour has placed buckets and sent me photos. Please register a home claim and arrange for a local emergency roofer to make safe and tarp it. As it's a listed building, I'd like a loss adjuster with heritage experience, and confirmation of any listed building requirements in the process.\n\nPolicy number: HOM-HOL-993241\nContact: 07498 220673\n\nKind regards,\nMhairi Smith",
+                    "subject": "FNOL: Storm damage to listed holiday cottage roof (IV51) - urgent make-safe required",
+                    "sent_from": "mhairi.smith@protonmail.com",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "home.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-07T08:41:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Skye_Roof_Damage_20260207_1.jpg",
+                            "filesize": 1754300,
+                            "filetype": "image/jpeg"
+                        },
+                        {
+                            "filename": "Skye_Lounge_Leak_20260207_2.jpg",
+                            "filesize": 1428800,
+                            "filetype": "image/jpeg"
+                        }
+                    ],
+                    "importance_flag": "high",
+                    "message_id": "<hom-fnol-4-1-b2f5@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_fnol_iv51_04"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Met Office amber wind warning for North East England tomorrow. Likely disruption; please prepare for an FNOL surge. Guidance attached.\n\nRisk Team",
+                    "subject": "Amber wind warning - North East England (prepare for FNOL surge)",
+                    "sent_from": "risk.alerts@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "regional.claims.ne@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-04T15:05:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Amber_Wind_Warning_NE_20260205.pdf",
+                            "filesize": 254000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": null,
+                    "message_id": "<info-40-1-3b71@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_info_risk_wind_40"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "I'm away until next Monday. For urgent matters, please contact the office. \n\nBayBuild Response",
+                    "subject": "Out of office: BayBuild Response",
+                    "sent_from": "noreply@baybuildresponse.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": null,
+                    "date_sent": "2026-02-15T08:01:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<irr-44-1-7c31@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_irr_oof_baybuild_44"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Dear Pinnacle,\n\nFive days after you told me a courtesy van would be sorted for PIN-MTR-560442, nothing has materialised. I've had multiple missed call-backs and I'm losing income each day without the van.\n\nPlease escalate and arrange a hire vehicle today. I expect some goodwill given the inconvenience.\n\nRegards,\nConnor Rafferty\nLiverpool L13\nTel: 07761 552144",
+                    "subject": "Complaint - Courtesy van not provided (PIN-MTR-560442)",
+                    "sent_from": "c.rafferty@outlook.com",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "motor.handlers@pinnacle-insurance.co.uk",
+                        "complaints@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-09T08:18:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<mtr-560442-20-1-3e77@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_560442_l13_20"
+                },
+                {
+                    "body": "Hi Connor,\n\nI'm sorry for the delay. I've chased our hire provider and asked them to prioritise PIN-MTR-560442 today. I'll update you by lunchtime with delivery timing.\n\nRegards,\nJade\nPinnacle Motor Claims",
+                    "subject": "RE: Complaint - Courtesy van not provided (PIN-MTR-560442)",
+                    "sent_from": "motor.handlers@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "c.rafferty@outlook.com"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk",
+                        "complaints@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-09T09:04:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<mtr-560442-20-2-5b11@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_560442_l13_20"
+                },
+                {
+                    "body": "Afternoon Jade,\n\nNo one has called and I still don't have a van. This is unacceptable. Please sort this today and confirm what goodwill you're offering.\n\nConnor",
+                    "subject": "RE: Complaint - Courtesy van not provided (PIN-MTR-560442)",
+                    "sent_from": "c.rafferty@outlook.com",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "motor.handlers@pinnacle-insurance.co.uk",
+                        "complaints@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-09T15:51:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<mtr-560442-20-3-8f22@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_560442_l13_20"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Dear Sirs,\n\nWe write to allege a data protection breach in relation to PIN-LIA-752388. Documents were emailed to the wrong party. Please provide details of the incident and confirm escalation to your Data Protection Officer. Our client reserves all rights.\n\nWe ask that you secure any mis‑sent data immediately and provide confirmation of steps taken.\n\nYours faithfully,\nDaniel Jameson\nTaylor & Sons Solicitors",
+                    "subject": "Data protection breach - PIN-LIA-752388 (mis-sent documents)",
+                    "sent_from": "d.jameson@taylorandsonssolicitors.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk",
+                        "dpo@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "complaints@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-19T10:41:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Mis-Sent_Email_Header_Screenshot.pdf",
+                            "filesize": 310000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": "high",
+                    "message_id": "<lia-752388-23-1-8ab7@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_lia_752388_databreach_23"
+                },
+                {
+                    "body": "Further to the above, please confirm by close of business today that you have initiated your breach report process and contacted the unintended recipient to secure deletion.\n\nRegards,\nDaniel Jameson",
+                    "subject": "RE: Data protection breach - PIN-LIA-752388 - Immediate steps required",
+                    "sent_from": "d.jameson@taylorandsonssolicitors.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk",
+                        "dpo@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "complaints@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-19T12:03:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<lia-752388-23-2-4b11@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_lia_752388_databreach_23"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Dear Home Claims Team,\n\nPlease find attached our summary of recent Financial Ombudsman Service decisions relevant to subsidence disputes, with key learning points highlighted for handlers. Areas include root ingress, evidence standards, and communication expectations.\n\nRegards,\nPinnacle Legal Updates",
+                    "subject": "FOS decisions - subsidence disputes (summary and key learnings)",
+                    "sent_from": "legal.updates@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "home.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-03T10:15:00Z",
+                    "attachments": [
+                        {
+                            "filename": "FOS_Subsidence_Summary_Feb2026.pdf",
+                            "filesize": 1045000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": null,
+                    "message_id": "<info-33-1-2a91@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_info_fos_subsidence_33"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Hi Claims,\n\nRe: PIN-HOM-419876 (West Bridgford, NG2) - we completed crack monitoring 8 weeks ago. The tenant is now reporting sticking doors and is anxious about safety. The landlord has asked when underpinning will start.\n\nCould you please confirm the adjuster's conclusions and the contractor mobilisation dates? We'll need to set expectations on duration and whether alternative accommodation is appropriate.\n\nThanks,\nSam Ramsey\nHarper Broking",
+                    "subject": "PIN-HOM-419876 - Subsidence remediation timeline and tenant concerns",
+                    "sent_from": "s.ramsey@harperbroking.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "home.handlers@pinnacle-insurance.co.uk",
+                        "tenant.ng2@outlook.com"
+                    ],
+                    "date_sent": "2026-02-09T11:06:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<hom-419876-9-1-8b5b@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_419876_ng2_09"
+                },
+                {
+                    "body": "Hi Adjusting Team,\n\nPlease review PIN-HOM-419876 monitoring results and confirm scope/mobilisation for underpinning, plus any requirement for tenant decant.\n\nThanks,\nElla\nPinnacle Home Claims",
+                    "subject": "FW: PIN-HOM-419876 - Underpinning start date?",
+                    "sent_from": "home.claims@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "adjusting@northshore-engineering.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-09T11:22:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<hom-419876-9-2-2c9e@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_419876_ng2_09"
+                },
+                {
+                    "body": "Afternoon,\n\nMonitoring indicates progressive movement at 2.8mm over 6 months. We recommend underpinning the front elevation and raft tie‑in. Mobilisation could commence w/c 23rd Feb subject to permits. Tenant decant for 2-3 weeks advised during excavation.\n\nRegards,\nNorthshore Engineering",
+                    "subject": "RE: PIN-HOM-419876 - Engineering recommendation",
+                    "sent_from": "projects@northshore-engineering.co.uk",
+                    "sent_to": [
+                        "home.claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-10T15:34:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Monitoring_Results_PIN-HOM-419876.pdf",
+                            "filesize": 612000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": "high",
+                    "message_id": "<hom-419876-9-3-1a01@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_419876_ng2_09"
+                },
+                {
+                    "body": "Hi Sam,\n\nEngineering recommend underpinning the front elevation; target start w/c 23rd Feb pending permits. Tenant decant for approx. 2-3 weeks during excavation.\n\nWe're contacting the contractor to confirm mobilisation dates. Will update you and the tenant by tomorrow.\n\nRegards,\nElla\nPinnacle Home Claims",
+                    "subject": "RE: PIN-HOM-419876 - Update on scope and dates",
+                    "sent_from": "home.claims@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "s.ramsey@harperbroking.co.uk"
+                    ],
+                    "sent_cc": [
+                        "tenant.ng2@outlook.com",
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-10T16:12:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<hom-419876-9-4-4d2c@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_419876_ng2_09"
+                },
+                {
+                    "body": "Evening Ella,\n\nThanks for the outline. The tenant is very nervous--please confirm the exact start date and decant arrangements by close tomorrow. If permits are an issue, set out what's outstanding and who is chasing.\n\nRegards,\nSam",
+                    "subject": "RE: PIN-HOM-419876 - Confirmation needed on underpinning start",
+                    "sent_from": "s.ramsey@harperbroking.co.uk",
+                    "sent_to": [
+                        "home.claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "tenant.ng2@outlook.com",
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-10T18:04:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<hom-419876-9-5-6f82@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_419876_ng2_09"
+                },
+                {
+                    "body": "Morning,\n\nFollowing up to ask if permits have been cleared and to request the contractor mobilisation date for underpinning PIN-HOM-419876. Please also confirm tenant decant arrangements and likely duration so we can brief them.\n\nRegards,\nSam Ramsey\nHarper & Vale Insurance (formerly Harper Broking)",
+                    "subject": "RE: PIN-HOM-419876 - Underpinning mobilisation date and tenant decant",
+                    "sent_from": "s.ramsey@harperbroking.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "home.handlers@pinnacle-insurance.co.uk",
+                        "tenant.ng2@outlook.com"
+                    ],
+                    "date_sent": "2026-02-11T09:02:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<hom-419876-9-6-3bc9@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_419876_ng2_09"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "This week's canteen menu is attached. \n\nEnjoy,\nCanteen Team",
+                    "subject": "Weekly canteen menu",
+                    "sent_from": "canteen@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "all.staff@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-08T08:30:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Canteen_Menu_Week_Feb8.pdf",
+                            "filesize": 156000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": null,
+                    "message_id": "<irr-47-1-1a64@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_irr_canteen_menu_47"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Dear Pinnacle Claims,\n\nWe're escalating a client complaint regarding your repudiation of storm damage to a holiday let in Cardiff Bay (CF10), claim PIN-HOM-544210. We believe your interpretation of wind‑driven rain is ambiguous in the policy wording.\n\nWe have provided meteorological data indicating wind speeds and rainfall patterns consistent with ingress. Please review the declinature rationale and confirm the formal complaint pathway.\n\nRegards,\nSarah Thomas\nWelsh Cover Brokers",
+                    "subject": "Complaint escalation - PIN-HOM-544210 (storm damage repudiation, wind-driven rain)",
+                    "sent_from": "sarah.thomas@welshcoverbrokers.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "underwriting@pinnacle-insurance.co.uk",
+                        "complaints@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-12T09:39:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Met_Data_CF10_Storm_20260201.pdf",
+                            "filesize": 522000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": "high",
+                    "message_id": "<hom-544210-21-1-3d55@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_544210_cf10_21"
+                },
+                {
+                    "body": "Hi Underwriting/Technical,\n\nPlease review PIN-HOM-544210 declinature against policy wording (wind-driven rain) and the broker's met data. We need a position and the appropriate complaint response path.\n\nThanks,\nHome Claims",
+                    "subject": "FW: PIN-HOM-544210 - Technical review required",
+                    "sent_from": "home.claims@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "technical@pinnacle-insurance.co.uk",
+                        "underwriting@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-12T10:04:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<hom-544210-21-2-6d10@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_544210_cf10_21"
+                },
+                {
+                    "body": "Technical view: Wording excludes gradual ingress. Evidence suggests a single storm event caused water penetration. Recommend partial acceptance for resultant damage; exclude pre‑existing defects. Complaints path: final response within 8 weeks.\n\nRegards,\nTechnical",
+                    "subject": "RE: PIN-HOM-544210 - Technical recommendation",
+                    "sent_from": "technical@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "home.claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-13T11:16:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<hom-544210-21-3-9a88@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_544210_cf10_21"
+                },
+                {
+                    "body": "Thanks for the technical view.\n\nPlease confirm you're issuing a revised position in line with this recommendation and set out the formal complaint response pathway to our client.\n\nRegards,\nSarah Thomas",
+                    "subject": "RE: Complaint escalation - PIN-HOM-544210 - Awaiting revised position",
+                    "sent_from": "sarah.thomas@welshcoverbrokers.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "complaints@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-13T12:02:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<hom-544210-21-4-4b71@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_544210_cf10_21"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Underwriting bulletin: Flood excess waiver will be withdrawn for postcodes in high-risk bands in Cumbria from next month. This is a heads-up to Claims--expect customer queries and check messaging.\n\nUW Team",
+                    "subject": "Underwriting bulletin - Flood excess waiver withdrawn (Cumbria high-risk bands)",
+                    "sent_from": "uw.bulletins@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "underwriting@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-09T09:02:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<info-35-1-3c81@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_info_uw_flood_35"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Hello,\n\nI'm chasing the business interruption payout under PIN-LIA-663210. We had to close the café temporarily for investigation after a customer injury claim. I sent our takings records last week and we're struggling with payroll--could you arrange an interim payment to cover wages?\n\nPlease confirm your indemnity approach and likely timeline.\n\nThanks,\nMegan Evans\nWrexham (LL11)",
+                    "subject": "PIN-LIA-663210 - Request for interim BI payment and timeline",
+                    "sent_from": "megan.evans@outlook.com",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "liability.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-17T10:25:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<lia-663210-10-1-1ea3@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_lia_663210_ll11_10"
+                },
+                {
+                    "body": "Hi Megan,\n\nWe've received your takings records. Our BI team is reviewing admissible losses in line with the closure period. We'll confirm the indemnity position and whether an interim is appropriate.\n\nRegards,\nLewis\nPinnacle Liability Claims",
+                    "subject": "RE: PIN-LIA-663210 - BI documentation received",
+                    "sent_from": "liability.handlers@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "megan.evans@outlook.com"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-17T11:02:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<lia-663210-10-2-7b51@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_lia_663210_ll11_10"
+                },
+                {
+                    "body": "Hi BI Team,\n\nPlease review the takings records for PIN-LIA-663210 and advise on interim payment for wages. Customer requesting urgent timeline.\n\nThanks,\nLewis",
+                    "subject": "FW: PIN-LIA-663210 - BI review and interim request",
+                    "sent_from": "liability.handlers@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "bi.team@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-17T11:10:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Takings_Records_LL11_2026-01_to_02.pdf",
+                            "filesize": 524000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": "high",
+                    "message_id": "<lia-663210-10-3-3ab1@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_lia_663210_ll11_10"
+                },
+                {
+                    "body": "Thanks for the update, Lewis.\n\nCould you confirm by tomorrow if you're making an interim payment? Staff are anxious and payday is Friday.\n\nThanks,\nMegan",
+                    "subject": "RE: PIN-LIA-663210 - Interim payment confirmation",
+                    "sent_from": "megan.evans@outlook.com",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "liability.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-17T16:18:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<lia-663210-10-4-6e40@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_lia_663210_ll11_10"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Hi,\n\nI've got a small chip in my 2017 Skoda Fabia windscreen. What's the process to get it repaired and will it affect my no claims discount? If you have a preferred supplier, please share their contact details.\n\nThanks,\nNina Patel\nManchester M14",
+                    "subject": "Windscreen chip repair - process and NCD impact (Skoda Fabia 2017)",
+                    "sent_from": "nina.patel@hotmail.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": null,
+                    "date_sent": "2026-02-02T18:46:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<gen-29-1-4f31@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_gen_windscreen_m14_29"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Hello Pinnacle Claims,\n\nI'm reporting a kitchen fire at our Victorian terrace in Headingley, Leeds (LS6 2...). An oil pan ignited late last night and the fire brigade attended and extinguished it. We're all safe, but there is smoke damage through the ground floor, some scorched cabinets, and one of the sash windows has cracked from the heat.\n\nThe children are temporarily staying with their grandparents in Roundhay so we can clean up. I've attached a few photos from this morning. Please register a home claim and let me know about next steps for assessment, emergency clean-up, and whether you can help with short‑term accommodation if required.\n\nPolicy number: HOM-PL-771932\nContact: 07885 662144\n\nThank you,\nAmelia Hartley",
+                    "subject": "FNOL: Late-night kitchen fire at Headingley (LS6) - smoke damage and cracked sash window",
+                    "sent_from": "amelia.hartley@yahoo.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "home.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-10T07:52:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Kitchen_Fire_Headingley_2026-02-10_1.jpg",
+                            "filesize": 1432000,
+                            "filetype": "image/jpeg"
+                        },
+                        {
+                            "filename": "Smoke_Damage_Lounge_2026-02-10_2.jpg",
+                            "filesize": 1318000,
+                            "filetype": "image/jpeg"
+                        }
+                    ],
+                    "importance_flag": "high",
+                    "message_id": "<hom-fnol-2-1-12ac@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_fnol_ls6_02"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Dear Pinnacle Claims,\n\nPlease find attached our detailed scope of works, itemised estimate, and programme for reinstatement following the kitchen fire at Sheffield (S7) under PIN-HOM-489020. Note: the heritage coving will require a specialist subcontractor.\n\nKindly review against the adjuster's recommendations and advise on authority or any revisions required.\n\nRegards,\nEstimating Team\nWhitaker Restoration",
+                    "subject": "PIN-HOM-489020 - Scope, itemised estimate and programme (heritage coving)",
+                    "sent_from": "estimating@whitakerrestoration.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "adjusting@borderlossadjusters.co.uk"
+                    ],
+                    "date_sent": "2026-02-14T09:32:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Scope_of_Works_PIN-HOM-489020.pdf",
+                            "filesize": 792000,
+                            "filetype": "application/pdf"
+                        },
+                        {
+                            "filename": "Estimate_PIN-HOM-489020.xlsx",
+                            "filesize": 208000,
+                            "filetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                        },
+                        {
+                            "filename": "Programme_PIN-HOM-489020.pdf",
+                            "filesize": 402000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": "high",
+                    "message_id": "<hom-489020-16-1-8a21@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_489020_s7_16"
+                },
+                {
+                    "body": "Hi Adjuster,\n\nPlease compare Whitaker's scope and estimate with your report for PIN-HOM-489020. Noted heritage coving specialist requirement--advise on policy limits/matching.\n\nThanks,\nPinnacle Home Claims",
+                    "subject": "FW: PIN-HOM-489020 - Scope/estimate review",
+                    "sent_from": "home.claims@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "adjusting@borderlossadjusters.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk",
+                        "estimating@whitakerrestoration.co.uk"
+                    ],
+                    "date_sent": "2026-02-14T10:01:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<hom-489020-16-2-1e51@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_489020_s7_16"
+                },
+                {
+                    "body": "Following up--please confirm if authority can be issued for the proposed works including heritage coving specialist, or if revisions are needed.\n\nRegards,\nWhitaker Restoration",
+                    "subject": "RE: PIN-HOM-489020 - Authority request for reinstatement programme",
+                    "sent_from": "estimating@whitakerrestoration.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "adjusting@borderlossadjusters.co.uk"
+                    ],
+                    "date_sent": "2026-02-17T08:44:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<hom-489020-16-3-3f92@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_489020_s7_16"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Dear Claims Team,\n\nI need to report a serious incident with my vehicle. My 2018 Kia Sportage (reg: FN18 ZJO) was inundated by seawater during the overnight tidal surge in Morecambe. It was parked along the promenade near LA4 5AS, and when I went to it this morning the interior was soaked, the electrics were flickering on and off, and there's a strong saltwater smell. The engine won't start.\n\nI've attached photos and a short video from my phone showing the state of the cabin and the water line. I'm a self‑employed decorator and rely on the car for booked jobs this week, so I need guidance on recovery and a hire car if possible.\n\nPolicy number: MTR-PL-239011\nContact: 07974 215836\n\nPlease can you register the claim and arrange recovery to an approved site as soon as possible? Also advise whether this is likely to be a total loss or if decontamination is attempted.\n\nThanks,\nJames Turner\nMorecambe",
+                    "subject": "FNOL: 2018 Kia Sportage inundated by tidal surge in Morecambe (LA4)",
+                    "sent_from": "j.turner79@btinternet.com",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "motor.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-03T08:14:00Z",
+                    "attachments": [
+                        {
+                            "filename": "IMG_20260203_081001.jpg",
+                            "filesize": 1842000,
+                            "filetype": "image/jpeg"
+                        },
+                        {
+                            "filename": "IMG_20260203_081019.jpg",
+                            "filesize": 1625400,
+                            "filetype": "image/jpeg"
+                        },
+                        {
+                            "filename": "VID_20260203_081044.mp4",
+                            "filesize": 4923000,
+                            "filetype": "video/mp4"
+                        }
+                    ],
+                    "importance_flag": "high",
+                    "message_id": "<mtr-fnol-1-1-9f3a@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_fnol_la4_01"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Enjoy office lunch discounts this week! Get 20% off platters and free delivery in Leeds city centre. Subscribe for more offers.\n\nCity Deli Leeds",
+                    "subject": "Office lunch deals - 20% off platters (City Deli Leeds)",
+                    "sent_from": "offers@citydeli-leeds.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": null,
+                    "date_sent": "2026-02-02T09:02:00Z",
+                    "attachments": [
+                        {
+                            "filename": "CityDeli_Menu_Feb2026.pdf",
+                            "filesize": 186000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": null,
+                    "message_id": "<irr-45-1-2a12@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_irr_marketing_citydeli_45"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Boost your website rankings with our premium SEO services. We guarantee top positions and more leads. Reply to get a free audit.\n\nTopRank SEO",
+                    "subject": "Unsolicited: Guaranteed SEO rankings and leads",
+                    "sent_from": "sales@toprankseo.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": null,
+                    "date_sent": "2026-02-03T13:01:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<irr-46-1-3b91@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_irr_spam_seo_46"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Hello,\n\nAttached is our arboricultural report for the storm-damaged oak overhanging a bungalow in York (YO24), claim PIN-HOM-547299. The main crotch is split and due to the target area risk we recommend sectional dismantling.\n\nPlease review against policy cover and advise if you need a second quote. We can schedule works within 10 days if authorised.\n\nRegards,\nCaledonian Tree Services",
+                    "subject": "PIN-HOM-547299 - Arboricultural report and recommendation (sectional dismantling)",
+                    "sent_from": "reports@caledoniantreeservices.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "home.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-04T09:56:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Arboricultural_Report_YO24_PIN-HOM-547299.pdf",
+                            "filesize": 913000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": null,
+                    "message_id": "<hom-547299-18-1-1c25@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_547299_yo24_18"
+                },
+                {
+                    "body": "Following up--please advise if you require a second quote or if we can proceed under make‑safe/removal authority.\n\nRegards,\nCaledonian Tree Services",
+                    "subject": "RE: PIN-HOM-547299 - Authority for tree works",
+                    "sent_from": "reports@caledoniantreeservices.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "home.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-05T11:22:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<hom-547299-18-2-7b89@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_547299_yo24_18"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Dear Partners,\n\nWe have rebranded from Harper Broking to Harper & Vale Insurance. Contact details remain unchanged.\n\nRegards,\nHarper & Vale Insurance",
+                    "subject": "Rebrand notice - Harper & Vale Insurance (formerly Harper Broking)",
+                    "sent_from": "info@harpervale.co.uk",
+                    "sent_to": [
+                        "partners@harpervale.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-10T13:52:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Harper_Vale_Rebrand_Notice.pdf",
+                            "filesize": 256000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": null,
+                    "message_id": "<info-36-1-0e57@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_info_rebrand_harpervale_36"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Dear Pinnacle Claims,\n\nWe wish to lodge a formal complaint regarding the handling of PIN-HOM-501772 (chimney collapse following a storm). It took three weeks to arrange temporary repairs and communication has been poor throughout. We had to heat only one room to keep warm.\n\nPlease acknowledge this complaint and confirm the next steps and a single point of contact.\n\nYours sincerely,\nPeter & Janet Howard\nDurham DH1\nTel: 07779 241802",
+                    "subject": "Formal complaint - PIN-HOM-501772 (chimney collapse delays and poor communication)",
+                    "sent_from": "p.andj.howard@virginmedia.com",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "home.handlers@pinnacle-insurance.co.uk",
+                        "complaints@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-01T18:22:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Chimney_Damage_Photo_1.jpg",
+                            "filesize": 1390000,
+                            "filetype": "image/jpeg"
+                        }
+                    ],
+                    "importance_flag": "high",
+                    "message_id": "<hom-501772-19-1-9d50@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_501772_dh1_19"
+                },
+                {
+                    "body": "Dear Mr & Mrs Howard,\n\nWe are very sorry for the distress caused. Your complaint has been logged with our Complaints team today. A dedicated handler will contact you by close of business tomorrow with a holding response and an action plan.\n\nKind regards,\nPinnacle Home Claims",
+                    "subject": "RE: Formal complaint - PIN-HOM-501772",
+                    "sent_from": "complaints@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "p.andj.howard@virginmedia.com"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk",
+                        "home.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-02T09:12:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<hom-501772-19-2-2f19@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_501772_dh1_19"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "FYI: We attended site in Keswick (CA12) today for PIN-HOM-555901. A full report will follow tomorrow.\n\nRegards,\nBorder Loss Adjusters",
+                    "subject": "Site attendance - PIN-HOM-555901 (Keswick CA12) - report to follow",
+                    "sent_from": "updates@borderlossadjusters.co.uk",
+                    "sent_to": [
+                        "home.claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-17T15:20:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<info-37-1-7b60@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_info_site_ca12_37"
+                },
+                {
+                    "body": "Update as promised: the full report for PIN-HOM-555901 will be issued by midday tomorrow. No immediate safety concerns identified.\n\nRegards,\nBorder Loss Adjusters",
+                    "subject": "RE: Site attendance - PIN-HOM-555901 - report timing",
+                    "sent_from": "updates@borderlossadjusters.co.uk",
+                    "sent_to": [
+                        "home.claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-17T17:42:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<info-37-2-9e11@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_info_site_ca12_37"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Join our webinar to learn about the latest features in ProjectManage Suite. Improve productivity and collaboration across teams.\n\nRegister using the link below.\n\nPM Software Suite Events",
+                    "subject": "Webinar invite - ProjectManage Suite features",
+                    "sent_from": "events@pmsoftwaresuite.com",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": null,
+                    "date_sent": "2026-02-11T13:32:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<irr-50-1-7f21@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_irr_webinar_pm_50"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Hi Motor Theft Team,\n\nCan we get a status update on PIN-MTR-590234 (Hyundai i40 theft - Gateshead)? The telematics anomaly we discussed at last week's case conference remains unresolved. Is the claim still on hold and has a recorded interview been scheduled with the policyholder?\n\nPlease confirm planned actions and dates.\n\nFraud Team",
+                    "subject": "PIN-MTR-590234 - Fraud status update and RI scheduling",
+                    "sent_from": "fraud.team@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk",
+                        "motor.theft@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "siu@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-13T11:46:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<mtr-590234-11-1-7e8a@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_590234_gateshead_11"
+                },
+                {
+                    "body": "Hi SIU,\n\nPlease confirm if we're maintaining the hold on PIN-MTR-590234 pending RI. Also advise whether the telematics provider responded to the anomaly query.\n\nThanks,\nMotor Theft",
+                    "subject": "FW: PIN-MTR-590234 - Hold status and telematics",
+                    "sent_from": "motor.theft@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "siu@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk",
+                        "fraud.team@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-13T12:05:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<mtr-590234-11-2-4f10@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_590234_gateshead_11"
+                },
+                {
+                    "body": "Team,\n\nCircling back--can we have confirmation today whether the RI is booked and if the claim remains on hold? We need to update case conference notes.\n\nThanks,\nFraud Team",
+                    "subject": "RE: PIN-MTR-590234 - Confirmation required on hold/RI",
+                    "sent_from": "fraud.team@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk",
+                        "motor.theft@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "siu@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-13T15:39:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<mtr-590234-11-3-9b0e@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_590234_gateshead_11"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Good afternoon,\n\nPlease find enclosed a secure link to dashcam footage relating to PIN-MTR-575842 (roundabout incident on A184, Gateshead). Our liability stance letter proposing a 50/50 apportionment is attached.\n\nSecure link: https://secure.northernmutual.co.uk/dashcam/PIN-MTR-575842\nAccess code: A184-575842\n\nKindly review the footage and advise your position.\n\nRegards,\nNorthern Mutual Motor Claims",
+                    "subject": "PIN-MTR-575842 - Dashcam footage link and liability stance (A184 roundabout)",
+                    "sent_from": "motorclaims@northernmutual.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "motor.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-06T14:06:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Liability_Stance_50-50_PIN-MTR-575842.pdf",
+                            "filesize": 298000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": "high",
+                    "message_id": "<mtr-575842-15-1-9b11@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_575842_a184_15"
+                },
+                {
+                    "body": "Hi Team,\n\nPlease download and review the dashcam footage for PIN-MTR-575842 alongside the insured's statement. We need to decide if we accept 50/50 or counter.\n\nThanks,\nBen\nPinnacle Motor Claims",
+                    "subject": "FW: PIN-MTR-575842 - Review dashcam and liability stance",
+                    "sent_from": "motor.handlers@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "motor.engineering@pinnacle-insurance.co.uk",
+                        "liability.motor@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-06T14:22:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<mtr-575842-15-2-7a20@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_575842_a184_15"
+                },
+                {
+                    "body": "Motor Engineering view: The dashcam indicates our insured was in the correct lane but drifted slightly. The other vehicle entered late. We'd recommend countering at 75/25 in our favour with lane discipline cited.\n\nA. Patel",
+                    "subject": "RE: PIN-MTR-575842 - Engineering liability view",
+                    "sent_from": "motor.engineering@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "motor.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-06T15:01:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<mtr-575842-15-3-2e8f@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_575842_a184_15"
+                },
+                {
+                    "body": "Thank you for the prompt review.\n\nPlease send us your formal position once decided. We'll keep the portal link open for 7 days.\n\nNorthern Mutual",
+                    "subject": "RE: PIN-MTR-575842 - Awaiting your formal position",
+                    "sent_from": "motorclaims@northernmutual.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "motor.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-06T16:02:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<mtr-575842-15-4-1c73@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_mtr_575842_a184_15"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "To whom it may concern,\n\nI'm very upset that our damp/mould claim PIN-HOM-536909 was closed without anyone coming to look. I sent photos and explained our tenant has health concerns (breathing issues). We are not neglecting maintenance--this is getting worse.\n\nPlease reopen and arrange an inspection as soon as possible. I need clear timescales and a named contact. I want to log this as a formal complaint.\n\nSadia Khan\nBirmingham B29",
+                    "subject": "Complaint and request to reopen - PIN-HOM-536909 (damp/mould, tenant health)",
+                    "sent_from": "sadia.khan@hotmail.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "home.handlers@pinnacle-insurance.co.uk",
+                        "complaints@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-04T20:14:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Damp_Photos_B29_20260204.zip",
+                            "filesize": 2200000,
+                            "filetype": "application/zip"
+                        }
+                    ],
+                    "importance_flag": "high",
+                    "message_id": "<hom-536909-22-1-8d63@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_536909_b29_22"
+                },
+                {
+                    "body": "Dear Ms Khan,\n\nWe're sorry for the distress caused. We have reopened PIN-HOM-536909 for review and will arrange an inspection to differentiate maintenance from insured peril. A complaints case is logged and we will confirm timescales tomorrow.\n\nKind regards,\nPinnacle Home Claims",
+                    "subject": "RE: Complaint - PIN-HOM-536909 reopened and inspection to be arranged",
+                    "sent_from": "complaints@pinnacle-insurance.co.uk",
+                    "sent_to": [
+                        "sadia.khan@hotmail.co.uk"
+                    ],
+                    "sent_cc": [
+                        "claims@pinnacle-insurance.co.uk",
+                        "home.handlers@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-05T09:06:00Z",
+                    "attachments": null,
+                    "importance_flag": "high",
+                    "message_id": "<hom-536909-22-2-3f02@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_536909_b29_22"
+                }
+            ]
+        },
+        {
+            "messages": [
+                {
+                    "body": "Dear Pinnacle,\n\nPlease find attached our invoice for six months of crack monitoring at the Leeds (LS17) property under PIN-HOM-419876. The invoice totals GBP1,140 + VAT. Monitoring logs are attached for filing.\n\nRegards,\nNorthshore Engineering Billing",
+                    "subject": "Invoice - PIN-HOM-419876 (GBP1,140 + VAT) - monitoring logs attached",
+                    "sent_from": "billing@northshore-engineering.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "home.claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-10T09:12:00Z",
+                    "attachments": [
+                        {
+                            "filename": "Invoice_Northshore_419876_Feb2026.pdf",
+                            "filesize": 242000,
+                            "filetype": "application/pdf"
+                        },
+                        {
+                            "filename": "Monitoring_Logs_LS17_Aug25-Feb26.pdf",
+                            "filesize": 784000,
+                            "filetype": "application/pdf"
+                        }
+                    ],
+                    "importance_flag": null,
+                    "message_id": "<hom-419876-25-1-2e19@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_419876_invoice_25"
+                },
+                {
+                    "body": "Please confirm services were authorised and process the invoice under PIN-HOM-419876. Logs to be filed to the claim record.\n\nRegards,\nBilling\nNorthshore Engineering",
+                    "subject": "RE: Invoice - PIN-HOM-419876 - Confirmation and processing",
+                    "sent_from": "billing@northshore-engineering.co.uk",
+                    "sent_to": [
+                        "claims@pinnacle-insurance.co.uk"
+                    ],
+                    "sent_cc": [
+                        "home.claims@pinnacle-insurance.co.uk"
+                    ],
+                    "date_sent": "2026-02-11T10:01:00Z",
+                    "attachments": null,
+                    "importance_flag": null,
+                    "message_id": "<hom-419876-25-2-4c55@mail.pinnacle-insurance.co.uk>",
+                    "thread_id": "thr_hom_419876_invoice_25"
+                }
+            ]
+        }
+    ]
+}

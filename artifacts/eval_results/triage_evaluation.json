@@ -1,0 +1,509 @@
+{
+  "evaluated_at": "2026-09-07T06:48:27.928764+00:00",
+  "gold_cases": 8,
+  "evaluated_cases": 8,
+  "coverage": 1.0,
+  "missing_threads": [],
+  "metrics": {
+    "classification_accuracy": 1.0,
+    "priority_level_accuracy": 0.875,
+    "joint_classification_priority_accuracy": 0.875,
+    "action_recall": 0.875,
+    "action_precision": 0.8497023809523809,
+    "entity_accuracy": 0.6875
+  },
+  "classification_metrics": {
+    "Actionable": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "Informational": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "Irrelevant": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "macro_average": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    }
+  },
+  "priority_metrics": {
+    "confusion_matrix": {
+      "Low": {
+        "Low": 2,
+        "Medium": 0,
+        "High": 0
+      },
+      "Medium": {
+        "Low": 0,
+        "Medium": 1,
+        "High": 0
+      },
+      "High": {
+        "Low": 0,
+        "Medium": 1,
+        "High": 4
+      }
+    },
+    "mean_absolute_level_error": 0.125,
+    "exact_agreement": 0.875,
+    "within_one_level": 1.0
+  },
+  "entity_metrics": {
+    "customer_name": {
+      "labelled_cases": 5,
+      "extraction_coverage": 1.0,
+      "exact_accuracy": 0.6
+    },
+    "policy_reference": {
+      "labelled_cases": 6,
+      "extraction_coverage": 0.8333333333333334,
+      "exact_accuracy": 0.8333333333333334
+    }
+  },
+  "action_metrics": {
+    "expected_actions": 19,
+    "predicted_actions": 22,
+    "matched_expected_actions": 16,
+    "matched_predicted_actions": 17,
+    "recall": 0.8421052631578947,
+    "precision": 0.7727272727272727
+  },
+  "summary_metrics": {
+    "labelled_cases": 8,
+    "term_coverage": 0.9545454545454546,
+    "case_coverage": 0.875
+  },
+  "case_results": [
+    {
+      "thread_id": "thr_hom_fnol_iv51_04",
+      "expected_classification": "Actionable",
+      "predicted_classification": "Actionable",
+      "expected_priority_level": "High",
+      "predicted_priority_level": "High",
+      "classification_correct": true,
+      "priority_level_correct": true,
+      "joint_correct": true,
+      "action_recall": 1.0,
+      "action_precision": 1.0,
+      "entity_accuracy": 1.0,
+      "expected_entities": {
+        "policy_reference": "HOM-HOL-993241",
+        "customer_name": "Mhairi Smith"
+      },
+      "predicted_entities": {
+        "policy_reference": "HOM-HOL-993241",
+        "broker_name": null,
+        "customer_name": "Mhairi Smith",
+        "third_parties": [
+          "local emergency roofer",
+          "loss adjuster with heritage experience"
+        ]
+      },
+      "expected_actions": [
+        "register",
+        "roofer",
+        "listed building"
+      ],
+      "predicted_actions": [
+        {
+          "action_id": "1",
+          "task_description": "Register a home claim for the storm damage to the holiday cottage.",
+          "deadline": null,
+          "is_resolved": false
+        },
+        {
+          "action_id": "2",
+          "task_description": "Arrange for a local emergency roofer to make safe and tarp the roof of the listed property.",
+          "deadline": null,
+          "is_resolved": false
+        },
+        {
+          "action_id": "3",
+          "task_description": "Confirm any listed building requirements in the process of making safe the property.",
+          "deadline": null,
+          "is_resolved": false
+        }
+      ],
+      "summary_terms": [
+        "storm",
+        "roof",
+        "claim"
+      ],
+      "summary_term_matches": 3
+    },
+    {
+      "thread_id": "thr_mtr_fnol_la4_01",
+      "expected_classification": "Actionable",
+      "predicted_classification": "Actionable",
+      "expected_priority_level": "High",
+      "predicted_priority_level": "High",
+      "classification_correct": true,
+      "priority_level_correct": true,
+      "joint_correct": true,
+      "action_recall": 0.6666666666666666,
+      "action_precision": 0.6666666666666666,
+      "entity_accuracy": 1.0,
+      "expected_entities": {
+        "policy_reference": "MTR-PL-239011",
+        "customer_name": "James Turner"
+      },
+      "predicted_entities": {
+        "policy_reference": "MTR-PL-239011",
+        "broker_name": null,
+        "customer_name": "James Turner",
+        "third_parties": [
+          "Claims Team"
+        ]
+      },
+      "expected_actions": [
+        "register",
+        "recovery",
+        "hire car"
+      ],
+      "predicted_actions": [
+        {
+          "action_id": "1",
+          "task_description": "Register the claim for the vehicle inundated by seawater.",
+          "deadline": null,
+          "is_resolved": false
+        },
+        {
+          "action_id": "2",
+          "task_description": "Arrange recovery of the vehicle to an approved site.",
+          "deadline": null,
+          "is_resolved": false
+        },
+        {
+          "action_id": "3",
+          "task_description": "Advise the customer on whether the vehicle is likely to be a total loss or if decontamination will be attempted.",
+          "deadline": null,
+          "is_resolved": false
+        }
+      ],
+      "summary_terms": [
+        "seawater",
+        "vehicle",
+        "recovery"
+      ],
+      "summary_term_matches": 3
+    },
+    {
+      "thread_id": "thr_irr_courier_dpd_49",
+      "expected_classification": "Irrelevant",
+      "predicted_classification": "Irrelevant",
+      "expected_priority_level": "Low",
+      "predicted_priority_level": "Low",
+      "classification_correct": true,
+      "priority_level_correct": true,
+      "joint_correct": true,
+      "action_recall": 1.0,
+      "action_precision": 1.0,
+      "entity_accuracy": 1.0,
+      "expected_entities": {},
+      "predicted_entities": {
+        "policy_reference": null,
+        "broker_name": null,
+        "customer_name": null,
+        "third_parties": []
+      },
+      "expected_actions": [],
+      "predicted_actions": [],
+      "summary_terms": [
+        "parcel",
+        "delivery"
+      ],
+      "summary_term_matches": 2
+    },
+    {
+      "thread_id": "thr_info_cs_feedback_41",
+      "expected_classification": "Informational",
+      "predicted_classification": "Informational",
+      "expected_priority_level": "Low",
+      "predicted_priority_level": "Low",
+      "classification_correct": true,
+      "priority_level_correct": true,
+      "joint_correct": true,
+      "action_recall": 1.0,
+      "action_precision": 1.0,
+      "entity_accuracy": 0.0,
+      "expected_entities": {
+        "policy_reference": "PIN-HOM-520119"
+      },
+      "predicted_entities": {
+        "policy_reference": null,
+        "broker_name": null,
+        "customer_name": null,
+        "third_parties": []
+      },
+      "expected_actions": [],
+      "predicted_actions": [],
+      "summary_terms": [
+        "feedback",
+        "positive"
+      ],
+      "summary_term_matches": 2
+    },
+    {
+      "thread_id": "thr_mtr_552301_sheffield_08",
+      "expected_classification": "Actionable",
+      "predicted_classification": "Actionable",
+      "expected_priority_level": "High",
+      "predicted_priority_level": "Medium",
+      "classification_correct": true,
+      "priority_level_correct": false,
+      "joint_correct": false,
+      "action_recall": 0.6666666666666666,
+      "action_precision": 1.0,
+      "entity_accuracy": 1.0,
+      "expected_entities": {
+        "policy_reference": "PIN-MTR-552301"
+      },
+      "predicted_entities": {
+        "policy_reference": "PIN-MTR-552301",
+        "broker_name": null,
+        "customer_name": "Steel City Bodyshop",
+        "third_parties": [
+          "Matt"
+        ]
+      },
+      "expected_actions": [
+        "author",
+        "completion date",
+        "written authority"
+      ],
+      "predicted_actions": [
+        {
+          "action_id": "1",
+          "task_description": "Confirm if parts authority can be granted to order the Volvo V40 rear bumper, sensors, and loom today.",
+          "deadline": null,
+          "is_resolved": false
+        },
+        {
+          "action_id": "1",
+          "task_description": "Send written authority so accounts can place orders",
+          "deadline": "2023-02-20T00:00:00Z",
+          "is_resolved": false
+        }
+      ],
+      "summary_terms": [
+        "parts",
+        "authority",
+        "completion"
+      ],
+      "summary_term_matches": 3
+    },
+    {
+      "thread_id": "thr_gen_yo1_sash_28",
+      "expected_classification": "Actionable",
+      "predicted_classification": "Actionable",
+      "expected_priority_level": "Medium",
+      "predicted_priority_level": "Medium",
+      "classification_correct": true,
+      "priority_level_correct": true,
+      "joint_correct": true,
+      "action_recall": 0.6666666666666666,
+      "action_precision": 0.6666666666666666,
+      "entity_accuracy": 1.0,
+      "expected_entities": {
+        "policy_reference": "HOM-LT-882113",
+        "customer_name": "Edward Marston"
+      },
+      "predicted_entities": {
+        "policy_reference": "HOM-LT-882113",
+        "broker_name": "Pinnacle",
+        "customer_name": "Edward Marston",
+        "third_parties": [
+          "Marston & Co."
+        ]
+      },
+      "expected_actions": [
+        "confirm",
+        "heritage glaziers",
+        "coverage"
+      ],
+      "predicted_actions": [
+        {
+          "action_id": "1",
+          "task_description": "Advise Edward Marston on policy coverage for repair or replacement of historic features due to storm damage.",
+          "deadline": null,
+          "is_resolved": false
+        },
+        {
+          "action_id": "2",
+          "task_description": "Provide information on approved heritage glaziers for the repair of sash windows.",
+          "deadline": null,
+          "is_resolved": false
+        },
+        {
+          "action_id": "3",
+          "task_description": "Recommend contractors for the repair or replacement of the sash windows.",
+          "deadline": null,
+          "is_resolved": false
+        }
+      ],
+      "summary_terms": [
+        "storm",
+        "sash",
+        "coverage"
+      ],
+      "summary_term_matches": 3
+    },
+    {
+      "thread_id": "thr_mtr_fnol_ne6_05",
+      "expected_classification": "Actionable",
+      "predicted_classification": "Actionable",
+      "expected_priority_level": "High",
+      "predicted_priority_level": "High",
+      "classification_correct": true,
+      "priority_level_correct": true,
+      "joint_correct": true,
+      "action_recall": 1.0,
+      "action_precision": 0.75,
+      "entity_accuracy": 0.5,
+      "expected_entities": {
+        "policy_reference": "MTR-COM-554872",
+        "customer_name": "Nathan Bradley"
+      },
+      "predicted_entities": {
+        "policy_reference": "MTR-COM-554872",
+        "broker_name": null,
+        "customer_name": "Nathan Bradley Plumbing & Heating",
+        "third_parties": [
+          "Northumbria Police"
+        ]
+      },
+      "expected_actions": [
+        "open",
+        "proof of ownership",
+        "hire van"
+      ],
+      "predicted_actions": [
+        {
+          "action_id": "1",
+          "task_description": "Open a theft claim for the stolen van.",
+          "deadline": null,
+          "is_resolved": false
+        },
+        {
+          "action_id": "2",
+          "task_description": "Request proof of ownership and tools inventory needed from the customer.",
+          "deadline": null,
+          "is_resolved": false
+        },
+        {
+          "action_id": "3",
+          "task_description": "Inform the customer about any limits on tools left in the van overnight.",
+          "deadline": null,
+          "is_resolved": false
+        },
+        {
+          "action_id": "4",
+          "task_description": "Assist the customer with arranging a hire van if the policy allows.",
+          "deadline": null,
+          "is_resolved": false
+        }
+      ],
+      "summary_terms": [
+        "stolen",
+        "van",
+        "claim"
+      ],
+      "summary_term_matches": 2
+    },
+    {
+      "thread_id": "thr_lia_fnol_cf10_03",
+      "expected_classification": "Actionable",
+      "predicted_classification": "Actionable",
+      "expected_priority_level": "High",
+      "predicted_priority_level": "High",
+      "classification_correct": true,
+      "priority_level_correct": true,
+      "joint_correct": true,
+      "action_recall": 1.0,
+      "action_precision": 0.7142857142857143,
+      "entity_accuracy": 0.0,
+      "expected_entities": {
+        "customer_name": "Eleri Hughes"
+      },
+      "predicted_entities": {
+        "policy_reference": "public liability policy",
+        "broker_name": "Pinnacle Insurance Claims",
+        "customer_name": "Ms Angharad Davies",
+        "third_parties": [
+          "Rhys Williams",
+          "Morgan Rowe Solicitors"
+        ]
+      },
+      "expected_actions": [
+        "open",
+        "acknowledge",
+        "claim reference",
+        "CCTV"
+      ],
+      "predicted_actions": [
+        {
+          "action_id": "1",
+          "task_description": "Open a public liability claim for the slip-and-fall incident at Hayes Street Caf\u00e9.",
+          "deadline": null,
+          "is_resolved": false
+        },
+        {
+          "action_id": "2",
+          "task_description": "Advise Eleri Hughes on what is needed from them (CCTV, incident report, witness statements) regarding the claim.",
+          "deadline": null,
+          "is_resolved": false
+        },
+        {
+          "action_id": "1",
+          "task_description": "Acknowledge receipt of the claim",
+          "deadline": null,
+          "is_resolved": false
+        },
+        {
+          "action_id": "2",
+          "task_description": "Confirm indemnity position",
+          "deadline": null,
+          "is_resolved": false
+        },
+        {
+          "action_id": "3",
+          "task_description": "Provide claim reference under public liability policy",
+          "deadline": null,
+          "is_resolved": false
+        },
+        {
+          "action_id": "4",
+          "task_description": "Inform where to send CCTV and incident report",
+          "deadline": null,
+          "is_resolved": false
+        },
+        {
+          "action_id": "5",
+          "task_description": "Provide disclosure of the cleaning/inspection regime",
+          "deadline": null,
+          "is_resolved": false
+        }
+      ],
+      "summary_terms": [
+        "slip",
+        "fall",
+        "claim"
+      ],
+      "summary_term_matches": 3
+    }
+  ],
+  "limitations": [
+    "This is a small, manually labelled smoke evaluation, not a statistically representative benchmark.",
+    "Action labels use phrase-level matching rather than semantic equivalence, so they are directional rather than definitive.",
+    "Entity scoring currently covers only the labelled fields and exact normalised values.",
+    "Results depend on the triage records currently persisted in the selected database."
+  ]
+}
