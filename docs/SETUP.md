@@ -14,7 +14,7 @@ This guide runs the local prototype from a clean checkout.
 ```
 cd backend
 python -m venv .venv
-.venv/Scripts/activate
+.venv\Scripts\activate
 pip install requirements.txt
 python main.py
 ```
