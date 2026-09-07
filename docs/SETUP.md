@@ -26,9 +26,9 @@ npm run dev
 ```
 Frontend must be served in port 5173, or change port number in main.py
 
-
-
 langfuse dashboard API must be provided (Updated) to view it from your own account dashboard.
+
+Press x500 speed for faster demo
 
 ## Backend
 
